@@ -1,0 +1,31 @@
+{
+  "key": "cloudflare",
+  "siteName": "Order Hàng Taobao",
+  "tagline": "Dịch vụ order Taobao, 1688 và Tmall",
+  "description": "Tìm hiểu dịch vụ order Taobao trọn gói: mua hộ, đặt hàng 1688, Tmall, thanh toán hộ và vận chuyển Trung–Việt.",
+  "baseUrl": "https://orderhangtaobao.pages.dev/",
+  "heroTitle": "Dịch vụ order Taobao trọn gói cho cá nhân và chủ shop",
+  "eyebrow": "Order Taobao · 1688 · Tmall",
+  "homeIntro": [
+    "Từ một sản phẩm mua dùng đến đơn nhập hàng cho cửa hàng, mỗi nhu cầu đều cần một quy trình rõ ràng: chọn đúng phân loại, xác nhận chi phí và theo dõi kiện hàng về Việt Nam.",
+    "Trang này giới thiệu phạm vi dịch vụ của Order Hàng Taobao và những thông tin nên chuẩn bị trước khi gửi yêu cầu, giúp cuộc trao đổi với bộ phận tư vấn tập trung vào đúng nhu cầu của bạn."
+  ],
+  "ctaLabel": "Xem dịch vụ tại orderhangtaobao.com",
+  "aboutIntro": "Trang thông tin về các dịch vụ order Taobao, mua hộ 1688, Tmall và vận chuyển Trung–Việt của Order Hàng Taobao.",
+  "about": [
+    "Order Hàng Taobao cung cấp dịch vụ trung gian mua hàng từ Taobao, Tmall và 1688, kèm các hỗ trợ như thanh toán hộ, ký gửi và vận chuyển hàng về Việt Nam.",
+    "Trang thông tin này tổng hợp cách chuẩn bị đơn hàng và những điểm cần kiểm tra trong báo giá. Nội dung không thay thế chính sách, bảng giá hay thỏa thuận áp dụng cho từng đơn hàng cụ thể.",
+    "Để biết điều kiện hiện hành, vui lòng xem website chính thức orderhangtaobao.com hoặc trao đổi trực tiếp với bộ phận tư vấn trước khi đặt mua."
+  ],
+  "theme": {
+    "primary": "#b45309",
+    "primaryDark": "#78350f",
+    "accent": "#0ea5e9"
+  },
+  "ctaBox": {
+    "title": "Bắt đầu từ nhu cầu thực tế của bạn",
+    "text": "Cho biết sản phẩm, số lượng và thời điểm mong muốn để được hướng dẫn quy trình phù hợp.",
+    "label": "Xem dịch vụ order Taobao",
+    "url": "https://orderhangtaobao.com/"
+  }
+}

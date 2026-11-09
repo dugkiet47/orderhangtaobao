@@ -1,0 +1,31 @@
+{
+  "key": "netlify",
+  "siteName": "Order Hàng Taobao",
+  "tagline": "Hướng dẫn đặt hàng từ Trung Quốc",
+  "description": "Hướng dẫn đặt hàng Taobao, 1688, Tmall: chuẩn bị thông tin, kiểm tra chi phí và theo dõi đơn hàng về Việt Nam.",
+  "baseUrl": "https://orderhangtaobao.netlify.app/",
+  "heroTitle": "Đặt hàng Taobao lần đầu: chuẩn bị đúng để tránh phát sinh",
+  "eyebrow": "Hướng dẫn mua hộ",
+  "homeIntro": [
+    "Một đơn hàng từ Trung Quốc dễ theo dõi hơn khi bạn biết trước cần chuẩn bị gì: đường dẫn sản phẩm, phân loại, số lượng, ngân sách và yêu cầu kiểm hàng.",
+    "Trang này chia sẻ hướng dẫn thực tế cho người mới đặt hàng Taobao, 1688 và Tmall, đồng thời giới thiệu cách Order Hàng Taobao hỗ trợ từng khâu trong quy trình mua hộ."
+  ],
+  "ctaLabel": "Xem dịch vụ tại orderhangtaobao.com",
+  "aboutIntro": "Trang hướng dẫn dành cho người mới đặt hàng Taobao, 1688 và Tmall, do Order Hàng Taobao tổng hợp.",
+  "about": [
+    "Đây là trang hướng dẫn thực hành về đặt hàng từ các nền tảng thương mại điện tử Trung Quốc. Nội dung được tổng hợp từ quy trình tư vấn và các câu hỏi thường gặp của người mua.",
+    "Thông tin về giá, tỷ giá, thời gian vận chuyển và chính sách kiểm hàng có thể thay đổi theo từng thời điểm. Hãy xác nhận với Order Hàng Taobao trước khi quyết định đặt mua.",
+    "Website chính thức của dịch vụ là orderhangtaobao.com. Các bài viết tại đây chỉ nhằm giúp bạn chuẩn bị thông tin tốt hơn, không phải báo giá hay cam kết dịch vụ."
+  ],
+  "theme": {
+    "primary": "#4338ca",
+    "primaryDark": "#312e81",
+    "accent": "#059669"
+  },
+  "ctaBox": {
+    "title": "Chuẩn bị đơn hàng đầu tiên",
+    "text": "Bắt đầu bằng danh sách sản phẩm và câu hỏi cụ thể để được hướng dẫn từng bước.",
+    "label": "Xem hướng dẫn đặt hàng",
+    "url": "https://orderhangtaobao.com/huong-dan-dat-hang-tai-orderhangtaobaocom/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "github",
+  "siteName": "Order Hàng Taobao",
+  "tagline": "Kinh nghiệm mua hộ và vận chuyển Trung–Việt",
+  "description": "Trang thông tin chia sẻ kinh nghiệm mua hộ Taobao, đặt hàng 1688, Tmall và vận chuyển hàng Trung Quốc về Việt Nam.",
+  "baseUrl": "https://dugkiet47.github.io/orderhangtaobao/",
+  "heroTitle": "Mua hàng Trung Quốc rõ ràng hơn với Order Hàng Taobao",
+  "eyebrow": "Kinh nghiệm mua hộ",
+  "homeIntro": [
+    "Order Hàng Taobao là đầu mối hỗ trợ mua hộ, tìm nguồn hàng và vận chuyển hàng từ Taobao, 1688, Tmall về Việt Nam. Trang này tổng hợp các bài viết thực tế để người mua chuẩn bị thông tin tốt hơn trước mỗi đơn hàng.",
+    "Nội dung tập trung vào quy trình đặt hàng, cách đọc báo giá, kiểm hàng và theo dõi vận chuyển – những bước thường bị bỏ qua khiến đơn hàng phát sinh ngoài dự kiến."
+  ],
+  "ctaLabel": "Xem dịch vụ tại orderhangtaobao.com",
+  "aboutIntro": "Trang thông tin tổng hợp hướng dẫn và kinh nghiệm mua hàng Trung Quốc của Order Hàng Taobao.",
+  "about": [
+    "Đây là trang thông tin về dịch vụ Order Hàng Taobao, được xây dựng để chia sẻ kiến thức mua hộ và vận chuyển hàng Trung Quốc cho người mua tại Việt Nam.",
+    "Các bài viết trên trang không thay thế báo giá hoặc chính sách chính thức. Giá, tỷ giá, thời gian vận chuyển và điều kiện bảo hành cần được xác nhận trực tiếp tại orderhangtaobao.com hoặc với bộ phận tư vấn.",
+    "Nếu bạn đang tìm hiểu dịch vụ mua hộ Taobao, đặt hàng 1688, mua hộ Tmall hoặc vận chuyển Trung–Việt, hãy bắt đầu từ website chính thức để xem thông tin hiện hành."
+  ],
+  "theme": {
+    "primary": "#0f766e",
+    "primaryDark": "#134e4a",
+    "accent": "#f59e0b"
+  },
+  "ctaBox": {
+    "title": "Cần tư vấn đơn hàng cụ thể?",
+    "text": "Gửi đường dẫn sản phẩm, phân loại và số lượng để được trao đổi phương án phù hợp.",
+    "label": "Xem bảng giá và hướng dẫn",
+    "url": "https://orderhangtaobao.com/bang-gia/"
+  }
+}

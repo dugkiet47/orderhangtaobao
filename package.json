@@ -1,0 +1,14 @@
+{
+  "name": "orderhangtaobao-sites",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static backlink sites for Order Hang Taobao (GitHub Pages, Cloudflare Pages, Netlify)",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^18.1.3"
+  }
+}
