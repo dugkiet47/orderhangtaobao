@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orderhangtaobao.github.io/orderhangtaobao/sitemap.xml
